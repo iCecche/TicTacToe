@@ -1,2 +1,2 @@
 # PaperScissorRock
-Paper Scissor Rock game for IOS
+Paper Scissor Rock game for IOS 🤚✂️👊
