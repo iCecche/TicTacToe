@@ -1,2 +1,2 @@
-# PaperScissorRock
-Paper Scissor Rock game for IOS 🤚✂️👊
+# TicTacToe
+Tic Tac Toe game for IOS ❌⭕️
